@@ -2,7 +2,8 @@
 
 ## How to run on your machine
 ```
-Download this repository. Install nodejs to your machine and complete the command "npm install && npm run serve". 
+Download this repository. 
+Install nodejs to your machine and complete the command "npm install && npm run serve". 
 If you want just to visit it, please visit github pages) 
 https://hushdev.github.io/vue-task-manager/
 ```
