@@ -130,7 +130,7 @@ export default {
         box-shadow: 0 5px 10px var(--dark-shadow);
         max-width: 100%;
         width: 100%;
-        max-height: 100%;
+        max-height: 100vh;
         height: 100%;
         overflow: hidden;
         position: relative;
