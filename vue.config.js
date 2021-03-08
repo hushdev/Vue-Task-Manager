@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: '/vue-task-manager/'
+    // publicPath: '/vue-task-manager/',
+    // baseUrl: '/'
 }

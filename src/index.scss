@@ -1,11 +1,12 @@
-/* ./src/index.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0;
+    background: transparent;
+}
+ul {
+    list-style-type: none;
 }
 
 //variables
@@ -66,4 +67,11 @@
     transition: 1.5s ease !important;
     opacity: 0;
     transform: translateX(100%);
+}
+
+
+.container {
+    max-width: 1140px;
+    width: 100%;
+    margin: auto;
 }

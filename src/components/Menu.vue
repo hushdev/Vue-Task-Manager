@@ -1,6 +1,6 @@
 <template>
     <div class="menu">
-        <div class="container mx-auto">
+        <div class="container">
             <button @click.prevent="$emit('onCloseMenu')" class="close">
                 X
             </button>

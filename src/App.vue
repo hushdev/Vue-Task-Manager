@@ -20,7 +20,7 @@
                 <app-menu v-if="isMenuActive" @onCloseMenu="closeMenu" />
             </transition>
             <app-nav @onMenuOpen="openMenu" />
-            <ul class="tasks container mx-auto">
+            <ul class="tasks container">
                 <transition-group name="task">
                     <app-task
                         v-for="(task, idx) in tasks"

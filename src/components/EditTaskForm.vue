@@ -1,6 +1,6 @@
 <template>
     <form>
-        <div class="container mx-auto">
+        <div class="container">
             <button @click.prevent="closeEditTaskForm" class="close">
                 X
             </button>
